@@ -1,0 +1,5 @@
+streamlit
+svgwrite
+python-dotenv
+openai
+supabase
